@@ -18,7 +18,7 @@ Each layer’s design pattern is represented by the **fraction of total area** o
 The **effective thermal conductivity** is computed using the **parallel-resistance model**, and the total stack resistance is derived from the **series combination** of all layers.
 
 <p align="center">
-  <img src="TPRL.png" width="400" alt="Resistance-based model">
+  <img src="rtlg.png" width="400" alt="Resistance-based model">
 </p>
 
 ### Markov Decision Process (MDP)
